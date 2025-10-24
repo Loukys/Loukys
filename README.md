@@ -9,7 +9,7 @@
 ## 🎯 Objectif
 
 Je suis à la recherche d’un **poste de développeur web junior** (front-end, back-end ou full-stack) dans une équipe où je pourrai apprendre, collaborer et contribuer à des projets concrets.
-Alors n'hésitez pas à me contacter ! 👉 [Guillaume Louail](https://www.linkedin.com/in/guillaume-louail-01537a109/)
+Alors n'hésitez pas à me contacter ! 👉 [LinkedIn](https://www.linkedin.com/in/guillaume-louail-01537a109/)
 
 ---
 
@@ -18,6 +18,14 @@ Alors n'hésitez pas à me contacter ! 👉 [Guillaume Louail](https://www.linke
 Après plus de **10 ans d’expérience dans l’industrie**, j’ai choisi de me tourner vers le **développement web** via la formation **OpenClassrooms**.  
 Cette reconversion est le fruit d’une passion pour la création, la logique et la satisfaction de livrer des produits utiles et bien conçus.  
 Je mets aujourd’hui à profit mes compétences en **qualité**, **gestion** et **communication** pour livrer un code **fiable, documenté et durable**.  
+
+---
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loukys&layout=compact&theme=react)
+
+</div>
 
 ---
 
@@ -88,11 +96,6 @@ Je mets aujourd’hui à profit mes compétences en **qualité**, **gestion** et
 
 ## 🌐 Mon univers
 
-🎨 **Portfolio** : [https://loukys.github.io/Portfolio/](https://loukys.github.io/Portfolio/)  
-💼 **LinkedIn** : [Guillaume Louail](https://www.linkedin.com/in/guillaume-louail-01537a109/)
+🎨 [Portfolio](https://loukys.github.io/Portfolio)  
+💼 [LinkedIn](https://www.linkedin.com/in/guillaume-louail-01537a109/)
 
----
-
-📊 **Mes stats GitHub**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loukys&layout=compact&theme=react)
