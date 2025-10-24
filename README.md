@@ -95,5 +95,4 @@ Je mets aujourd’hui à profit mes compétences en **qualité**, **gestion** et
 
 📊 **Mes stats GitHub**
 
-![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=loukys&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loukys&layout=compact&theme=react)
